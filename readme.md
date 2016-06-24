@@ -65,10 +65,12 @@
 <br />
 **¿Qué comando o comandos usaste en el paso 32?**
 
-```git ```
+```git log```
+```git checkout bebc9bd70b11ce6ae22fc1eecfa5562c5abca0c5```
 
 <br />
 **¿Qué comando o comandos usaste en el punto 33?**
 
-```git ```
+```git reflog```<br />
+```git checkout 164732a```
 
